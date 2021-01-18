@@ -1,4 +1,4 @@
-# productos-de-supermercados
+# Productos de Supermercados
 
 Productos con su precio y descripción en los principales supermercados de España. Este dataset se puede adquirir en [Data Market](https://datamarket.es/#productos-de-supermercados-dataset), plataforma de referencia de datos externos en España. Puede consultar nuestro catálogo de datos en la siguiente url: [datamarket.es](https://datamarket.es/)
 
