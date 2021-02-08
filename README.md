@@ -22,7 +22,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link]( ).
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/productos-de-supermercados/blob/main/productos-de-supermercados-sample.csv).
 
 ## Documentación
 
