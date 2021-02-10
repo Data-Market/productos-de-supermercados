@@ -10,8 +10,8 @@ Productos con su precio y descripción en los __principales supermercados de Esp
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 12h
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: 50.000 registros cada día
+* __Histórico__: desde julio de 2020
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#productos-de-supermercados-dataset), plataforma de referencia de datos externos en España. 
 
