@@ -37,4 +37,4 @@ A continuación se muestran las columnas de las que consta el dataset en el form
 | price | float | Precio absoluto del producto. En caso de existir algún tipo de descuento aparecerá el menor precio disponible. | 1.99 |
 | reference_price | float | Precio unitario (por unidad de medida del producto, €/Kg, €/L, etc.). | 7.96 |
 | reference_unit  | str | Unidad de referencia del producto (Kg, L, etc.). | kg |
-| supermarket | str | Supermercado al que pertenece el producto (encriptado). Este campo será visible tras la subscripción al dataset. | 433463D95980C252B92C204E3655BB81 |
+| supermarket | str | Supermercado al que pertenece el producto. | 433463D95980C252B92C204E3655BB81 |
