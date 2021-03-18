@@ -1,6 +1,6 @@
 # Datasets de Productos de Supermercados
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/productos-de-supermercados-banner.png">
+  <img src="https://datamarket.es/media/banners/productos-de-supermercados-banner.png">
 </a>
 
 ## Descripción
